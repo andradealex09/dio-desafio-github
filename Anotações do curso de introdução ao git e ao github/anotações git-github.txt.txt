@@ -38,4 +38,13 @@ reset --soft --mixed --hard
 
 quando for clonar pela chave ssh, depois da interrogação, colocar yes, caso queira de fato clonar 
 
+cmd saber programa e versão na minha maquina
+1.1 Listar nome e versão:
+product get name, version
+
+1.2 – Listar Nome, versão e data de instalação:
+product get name, version, installDate
+
+1.3 – Listar Nome, versão, data de instalação e descrição:
+product get name, version, installDate, description
 
