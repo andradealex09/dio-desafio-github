@@ -1,0 +1,13 @@
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.exe
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.deps.json
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.runtimeconfig.json
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.runtimeconfig.dev.json
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.dll
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\bin\Debug\netcoreapp3.1\Aula.NET.pdb
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.csprojAssemblyReference.cache
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.AssemblyInfoInputs.cache
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.AssemblyInfo.cs
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.csproj.CoreCompileInputs.cache
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.dll
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.pdb
+C:\Users\User\git-course-dio\dio-desafio-github\.NET\Aula.NET\obj\Debug\netcoreapp3.1\Aula.NET.genruntimeconfig.cache
