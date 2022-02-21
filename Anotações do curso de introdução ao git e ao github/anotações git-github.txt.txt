@@ -9,7 +9,7 @@ git config user.name
 git config user.email 
 
 para criar uma pasta. mkdir + o nome da pasta 
-para entrar em uma pasta. cd git + o nome da pasta
+para entrar em uma pasta. cd + o nome da pasta
 
 git init é responsavel por inicializar o repositorio
 
