@@ -11,3 +11,16 @@ C:\Users\User\Desktop\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.csproj.Cor
 C:\Users\User\Desktop\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.dll
 C:\Users\User\Desktop\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.pdb
 C:\Users\User\Desktop\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.genruntimeconfig.cache
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.exe
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.deps.json
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.runtimeconfig.json
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.runtimeconfig.dev.json
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.dll
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\bin\Debug\netcoreapp3.1\Aula2Dotnet.pdb
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.csprojAssemblyReference.cache
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.AssemblyInfoInputs.cache
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.AssemblyInfo.cs
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.dll
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.pdb
+C:\Users\User\git-github-desafio\dio-desafio-github\Aula2Dotnet\obj\Debug\netcoreapp3.1\Aula2Dotnet.genruntimeconfig.cache

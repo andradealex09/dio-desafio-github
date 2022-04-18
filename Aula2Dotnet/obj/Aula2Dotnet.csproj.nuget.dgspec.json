@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Aula2Dotnet\\Aula2Dotnet.csproj": {}
+    "C:\\Users\\User\\git-github-desafio\\dio-desafio-github\\Aula2Dotnet\\Aula2Dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Aula2Dotnet\\Aula2Dotnet.csproj": {
+    "C:\\Users\\User\\git-github-desafio\\dio-desafio-github\\Aula2Dotnet\\Aula2Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Aula2Dotnet\\Aula2Dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\User\\git-github-desafio\\dio-desafio-github\\Aula2Dotnet\\Aula2Dotnet.csproj",
         "projectName": "Aula2Dotnet",
-        "projectPath": "C:\\Users\\User\\Desktop\\Aula2Dotnet\\Aula2Dotnet.csproj",
+        "projectPath": "C:\\Users\\User\\git-github-desafio\\dio-desafio-github\\Aula2Dotnet\\Aula2Dotnet.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Aula2Dotnet\\obj\\",
+        "outputPath": "C:\\Users\\User\\git-github-desafio\\dio-desafio-github\\Aula2Dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
